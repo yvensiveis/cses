@@ -101,8 +101,10 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Shortest Routes I
 * Shortest Routes II
 * High Score
-* Flight Discount
-* Cycle Finding
+* [Flight Discount](./04-graph-algorithms/11-flight-discount/)
+    * [Lucca](./04-graph-algorithms/11-flight-discount/lucca.cpp)
+* [Cycle Finding](./04-graph-algorithms/12-cycle-finding/)
+    * [Lucca](./04-graph-algorithms/12-cycle-finding/lucca.cpp)
 * Flight Routes
 * Round Trip II
 * Course Schedule
