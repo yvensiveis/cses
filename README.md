@@ -6,7 +6,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 
 * [Weird Algorithm](./01-introductory-problems/01-weird-algorithm)
     * [Pedro](./01-introductory-problems/01-weird-algorithm/pedro.cpp)
-* Missing Number
+* [Missing Number](./01-introductory-problems/02-missing-number)
+    * [Pedro](./01-introductory-problems/02-missing-number/pedro.cpp)
 * Repetitions
 * Increasing Array
 * Permutations
