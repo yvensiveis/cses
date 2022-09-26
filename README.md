@@ -53,7 +53,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Factory Machines
 * Tasks and Deadlines
 * Reading Books
-* Sum of Three Values
+* [Sum of Three Values](./02-sorting-and-searching/24-sum-of-three-values/)
+    * [Pedro](./02-sorting-and-searching/24-sum-of-three-values/pedro.cpp)
 * Sum of Four Values
 * Nearest Smaller Values
 * Subarray Sums I
