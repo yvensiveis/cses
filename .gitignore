@@ -1,2 +1,11 @@
+# Temporary directory
+tmp/
+
+# Executable files
 a
 a.out
+
+# I/O files
+in
+out
+ans
