@@ -35,7 +35,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Restaurant Customers
 * Movie Festival
 * Sum of Two Values
-* Maximum Subarray Sum
+* [Maximum Subarray Sum](./02-sorting-and-searching/08-maximum-subarray-sum/)
+    * [Pedro](./02-sorting-and-searching/08-maximum-subarray-sum/pedro.cpp)
 * Stick Lengths
 * Missing Coin Sum
 * Collecting Numbers
@@ -100,10 +101,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Shortest Routes I
 * Shortest Routes II
 * High Score
-* [Flight Discount](./04-graph-algorithms/11-flight-discount/)
-    * [Lucca](./04-graph-algorithms/11-flight-discount/lucca.cpp)
-* [Cycle Finding](./04-graph-algorithms/12-cycle-finding/)
-    * [Lucca](./04-graph-algorithms/12-cycle-finding/lucca.cpp)
+* Flight Discount
+* Cycle Finding
 * Flight Routes
 * Round Trip II
 * Course Schedule
