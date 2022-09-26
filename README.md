@@ -4,7 +4,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 
 ## [Introductory Problems](./01-introductory-problems/)
 
-* Weird Algorithm
+* [Weird Algorithm](./01-introductory-problems/01-weird-algorithm)
+    * [Pedro](./01-introductory-problems/01-weird-algorithm/pedro.cpp)
 * Missing Number
 * Repetitions
 * Increasing Array
