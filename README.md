@@ -44,7 +44,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Playlist
 * Towers
 * Traffic Lights
-* Josephus Problem I
+* [Josephus Problem I](./02-sorting-and-searching/16-josephus-problem-1/)
+    * [Pedro](./02-sorting-and-searching/16-josephus-problem-1/pedro.cpp)
 * Josephus Problem II
 * Nested Ranges Check
 * Nested Ranges Count
