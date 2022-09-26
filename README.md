@@ -88,8 +88,10 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 
 ## [Graph Algorithms](./04-graph-algorithms/)
 
-* Counting Rooms
-* Labyrinth
+* [Counting Rooms](./04-graph-algorithms/01-counting-rooms/)
+    * [Lucca](./04-graph-algorithms/01-counting-rooms/lucca.cpp)
+* [Labyrinth](./04-graph-algorithms/02-labyrinth/)
+    * [Lucca](./04-graph-algorithms/02-labyrinth/lucca.cpp)
 * Building Roads
 * Message Route
 * Building Teams
@@ -234,7 +236,7 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 
 * Meet in the Middle
 * [Hamming Distance](./10-advanced-techniques/02-hamming-distance)
-    * [Lucca](./01-introductory-problems/02-hamming-distance/lucca.cpp)
+    * [Lucca](./10-advanced-techniques/02-hamming-distance/lucca.cpp)
 * Beautiful Subgrids
 * Reachable Nodes
 * Reachability Queries
