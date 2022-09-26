@@ -35,7 +35,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Restaurant Customers
 * Movie Festival
 * Sum of Two Values
-* Maximum Subarray Sum
+* [Maximum Subarray Sum](./02-sorting-and-searching/08-maximum-subarray-sum/)
+    * [Pedro](./02-sorting-and-searching/08-maximum-subarray-sum/pedro.cpp)
 * Stick Lengths
 * Missing Coin Sum
 * Collecting Numbers
