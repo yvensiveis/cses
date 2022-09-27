@@ -107,7 +107,9 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Lucca](./04-graph-algorithms/11-flight-discount/lucca.cpp)
 * [Cycle Finding](./04-graph-algorithms/12-cycle-finding/)
     * [Lucca](./04-graph-algorithms/12-cycle-finding/lucca.cpp)
-* Flight Routes
+* [Flight Routes](./04-graph-algorithms/13-flight-routes/)
+    * [Lucca - pqueue](./04-graph-algorithms/13-flight-routes/lucca-pqueue.cpp)
+    * [Lucca - sorting](./04-graph-algorithms/13-flight-routes/lucca-sorting.cpp)
 * [Round Trip II](./04-graph-algorithms/14-round-trip-ii/)
     * [Lucca](./04-graph-algorithms/14-round-trip-ii/lucca.cpp)
 * Course Schedule
