@@ -113,7 +113,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * [Round Trip II](./04-graph-algorithms/14-round-trip-ii/)
     * [Lucca](./04-graph-algorithms/14-round-trip-ii/lucca.cpp)
 * Course Schedule
-* Longest Flight Route
+* [Longest Flight Route](./04-graph-algorithms/16-longest-flight-route/)
+    * [Lucca](./04-graph-algorithms/16-longest-flight-route/lucca.cpp)
 * Game Routes
 * Investigation
 * Planets Queries I
