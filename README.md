@@ -148,7 +148,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Dynamic Range Sum Queries
 * Dynamic Range Minimum Queries
 * Range Xor Queries
-* Range Update Queries
+* [Range Update Queries](./05-range-queries/06-range-update-queries/)
+    * [Lucca - lazy](./05-range-queries/06-range-update-queries/lucca-lazy.cpp)
 * Forest Queries
 * Hotel Queries
 * List Removals
