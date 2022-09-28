@@ -4,6 +4,10 @@
     * para encontrar o maior número de vértices no
     * caminho de s até 1.
     * OBS: antes checar se N é alcançável com DFS/BFS
+    Estado da DP:
+    * dp[s]: maior número de vértices no caminho de 1 até s
+    Caso base da DP:
+    * dp[1] = 0
     Complexidade:
     * O(n)
 **/
