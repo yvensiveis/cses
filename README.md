@@ -250,7 +250,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Point in Polygon
 * Polygon Lattice Points
 * Minimum Euclidean Distance
-* Convex Hull
+* [Convex Hull](./09-geometry/07-convex-hull/)
+    * [Lucca](./09-geometry/07-convex-hull/lucca.cpp)
 
 ## [Advanced Techniques](./10-advanced-techniques/)
 
