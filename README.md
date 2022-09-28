@@ -147,7 +147,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Static Range Minimum Queries
 * Dynamic Range Sum Queries
 * Dynamic Range Minimum Queries
-* Range Xor Queries
+* [Range Xor Queries](./05-range-queries/05-range-xor-queries/)
+    * [Lucca](./05-range-queries/05-range-xor-queries/lucca.cpp)
 * [Range Update Queries](./05-range-queries/06-range-update-queries/)
     * [Lucca - lazy](./05-range-queries/06-range-update-queries/lucca-lazy.cpp)
     * [Lucca - prefix sum](./05-range-queries/06-range-update-queries/lucca-prefix-sum.cpp)
