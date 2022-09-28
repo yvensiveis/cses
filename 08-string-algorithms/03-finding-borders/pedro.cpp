@@ -4,18 +4,25 @@ using namespace std;
 
 typedef long long int ll;
 
-const ll MOD = (ll) 1e18 + 3;
+const ll M = (ll) 1e18 + 3;
+const int P = 31;
+
+int ord(char ch) {
+    return ch - 'a' + 1;
+}
 
 void solve() {
     string a; cin >> a;
     int n = a.size();
  
     ll pfx_hash = 0, sfx_hash = 0;
-    ll pow26 = 1;
+    ll pow_of_p = 1;
     for (int i = 0; i < n - 1; ++i) {
-        pfx_hash = (((__int128) pfx_hash * 26) + (a[i] - 'a')) % MOD;
-        sfx_hash = (sfx_hash + (__int128) pow26 * (a[n - i - 1] - 'a')) % MOD;
-        pow26 = ((__int128) pow26 * 26) % MOD;
+        pfx_hash = ((__int128) pfx_hash * P + ord(a[i])) % M;
+        sfx_hash = (sfx_hash + (__int128) pow_of_p * ord(a[n - i - 1])) % M;
+        
+        pow_of_p = ((__int128) pow_of_p * P) % M;
+
         if (pfx_hash == sfx_hash) {
             cout << i + 1 << ' ';
         }
