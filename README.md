@@ -246,7 +246,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 
 * Point Location Test
 * Line Segment Intersection
-* Polygon Area
+* [Polygon Area](./09-geometry/03-polygon-area/)
+    * [Lucca](./09-geometry/03-polygon-area/lucca.cpp)
 * Point in Polygon
 * Polygon Lattice Points
 * Minimum Euclidean Distance
