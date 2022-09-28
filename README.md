@@ -224,7 +224,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Word Combinations
 * [String Matching](./08-string-algorithms/02-string-matching/)
     * [Pedro](./08-string-algorithms/02-string-matching/pedro.cpp)
-* Finding Borders
+* [Finding Borders](./08-string-algorithms/03-finding-borders/)
+    * [Pedro](./08-string-algorithms/03-finding-borders/pedro.cpp)
 * Finding Periods
 * Minimal Rotation
 * Longest Palindrome
