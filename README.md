@@ -294,7 +294,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Strongly Connected Edges
 * Even Outdegree Edges
 * Multiplication Table
-* Advertisement
+* [Advertisement](./11-additional-problems/09-advertisement/)
+    * [Pedro](./11-additional-problems/09-advertisement/pedro.cpp)
 * Special Substrings
 * Permutation Inversions
 * Maximum Xor Subarray
