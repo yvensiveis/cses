@@ -4,12 +4,12 @@
   * Kosaraju's + Top sort ao contrário definindo
   * os valores verdade.
   * Se, depois do Kosaraju's, encotrar x e ~x no mesmo
-  * SSC, a proposição é false
+  * SSC, a proposição é falsa.
  * OBS:
   * Muuuitos detalhes de implementação.
   * Tomar cuidado com a utilização ou não
   * dos grafos reversos.
-  * Calcular direito o núero de componentes.
+  * Calcular direito o número de componentes.
 **/
 #include <bits/stdc++.h>
 #define pb push_back
