@@ -130,7 +130,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Road Construction
 * Flight Routes Check
 * Planets and Kingdoms
-* Giant Pizza
+* [Giant Pizza](./04-graph-algorithms/26-giant-pizza/)
+    * [Lucca](./04-graph-algorithms/26-giant-pizza/lucca.cpp)
 * Coin Collector
 * Mail Delivery
 * De Bruijn Sequence
