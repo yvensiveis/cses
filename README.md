@@ -287,7 +287,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 ## [Additional Problems](./11-additional-problems/)
 
 * Shortest Subsequence
-* Counting Bits
+* [Counting Bits](./11-additional-problems/02-counting-bits/)
+    * [Pedro](./11-additional-problems/02-counting-bits/pedro.cpp)
 * Swap Game
 * Prüfer Code
 * Acyclic Graph Edges
