@@ -174,7 +174,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Lucca](./06-tree-algorithms/01-subordinates/lucca.cpp)
 * Tree Matching
 * Tree Diameter
-* Tree Distances I
+* [Tree Distances I](./06-tree-algorithms/04-tree-distances-1/)
+    * [Lucca](./06-tree-algorithms/04-tree-distances-1/lucca.cpp)
 * Tree Distances II
 * Company Queries I
 * Company Queries II
