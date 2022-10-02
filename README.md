@@ -170,7 +170,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 
 ## [Tree Algorithms](./06-tree-algorithms/)
 
-* Subordinates
+* [Subordinates](./06-tree-algorithms/01-subordinates/)
+    * [Lucca](./06-tree-algorithms/01-subordinates/lucca.cpp)
 * Tree Matching
 * Tree Diameter
 * Tree Distances I
