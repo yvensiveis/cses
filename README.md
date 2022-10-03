@@ -161,7 +161,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Hotel Queries
 * List Removals
 * Salary Queries
-* Prefix Sum Queries
+* [Prefix Sum Queries](./05-range-queries/11-prefix-sum-queries/)
+    * [Lucca](./05-range-queries/11-prefix-sum-queries/lucca.cpp)
 * Pizzeria Queries
 * Subarray Sum Queries
 * Distinct Values Queries
