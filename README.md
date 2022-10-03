@@ -159,7 +159,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * [Range Update Queries](./05-range-queries/06-range-update-queries/)
     * [Lucca - lazy](./05-range-queries/06-range-update-queries/lucca-lazy.cpp)
     * [Lucca - prefix sum](./05-range-queries/06-range-update-queries/lucca-prefix-sum.cpp)
-* Forest Queries
+* [Forest Queries](./05-range-queries/07-forest-queries/)
+    * [Lucca](./05-range-queries/07-forest-queries/lucca.cpp)
 * Hotel Queries
 * [List Removals](./05-range-queries/09-list-removals/)
     * [Lucca](./05-range-queries/09-list-removals/lucca.cpp)
