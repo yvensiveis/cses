@@ -8,8 +8,7 @@ typedef long long int ll;
 
 const int MAXN = 1010, INF = 2e9, M = 1e9 + 7;
 
-int grid[MAXN][MAXN];
-ll pref[MAXN][MAXN];
+int grid[MAXN][MAXN], pref[MAXN][MAXN];
 
 void solve() {
     int n, q; cin >> n >> q;
