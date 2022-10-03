@@ -167,7 +167,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Salary Queries
 * [Prefix Sum Queries](./05-range-queries/11-prefix-sum-queries/)
     * [Lucca](./05-range-queries/11-prefix-sum-queries/lucca.cpp)
-* Pizzeria Queries
+* [Pizzeria Queries](./05-range-queries/12-pizzeria-queries/)
+    * [Lucca](./05-range-queries/12-pizzeria-queries/lucca.cpp)
 * [Subarray Sum Queries](./05-range-queries/13-subarray-sum-queries/)
     * [Lucca](./05-range-queries/13-subarray-sum-queries/lucca.cpp)
 * Distinct Values Queries
