@@ -103,7 +103,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Monsters
 * [Shortest Routes I](./04-graph-algorithms/08-shortest-routes-1/)
     * [Lucca](./04-graph-algorithms/08-shortest-routes-1/lucca.cpp)
-* Shortest Routes II
+* [Shortest Routes II](./04-graph-algorithms/09-shortest-routes-2/)
+    * [Lucca](./04-graph-algorithms/09-shortest-routes-2/lucca.cpp)
 * [High Score](./04-graph-algorithms/10-high-score/)
     * [Lucca](./04-graph-algorithms/10-high-score/lucca.cpp)
 * [Flight Discount](./04-graph-algorithms/11-flight-discount/)
