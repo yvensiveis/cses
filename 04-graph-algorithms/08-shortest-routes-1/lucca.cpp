@@ -7,7 +7,7 @@ using namespace std;
 typedef long long int ll;
 
 const int MAXN = 1e5 + 10, M = 1e9 + 7;
-ll INF = 1e18;
+const ll INF = 1e18;
 
 vector<pair<int, int>> adj[MAXN];
 ll dist[MAXN];
