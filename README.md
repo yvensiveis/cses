@@ -200,7 +200,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 ## [Mathematics](./07-mathematics/)
 
 * Josephus Queries
-* Exponentiation
+* [Exponentiation](./07-mathematics/02-exponentiation/)
+    * [Pedro](./07-mathematics/02-exponentiation/pedro.cpp)
 * Exponentiation II
 * Counting Divisors
 * Common Divisors
