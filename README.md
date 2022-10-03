@@ -164,7 +164,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * [Prefix Sum Queries](./05-range-queries/11-prefix-sum-queries/)
     * [Lucca](./05-range-queries/11-prefix-sum-queries/lucca.cpp)
 * Pizzeria Queries
-* Subarray Sum Queries
+* [Subarray Sum Queries](./05-range-queries/13-subarray-sum-queries/)
+    * [Lucca](./05-range-queries/13-subarray-sum-queries/lucca.cpp)
 * Distinct Values Queries
 * Increasing Array Queries
 * Forest Queries II
