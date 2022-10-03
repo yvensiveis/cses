@@ -129,7 +129,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Road Reparation
 * Road Construction
 * Flight Routes Check
-* Planets and Kingdoms
+* [Planets and Kingdoms](./04-graph-algorithms/25-planets-and-kingdoms/)
+    * [Lucca](./04-graph-algorithms/25-planets-and-kingdoms/lucca.cpp)
 * [Giant Pizza](./04-graph-algorithms/26-giant-pizza/)
     * [Lucca](./04-graph-algorithms/26-giant-pizza/lucca.cpp)
 * Coin Collector
