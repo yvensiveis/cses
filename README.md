@@ -101,7 +101,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Building Teams
 * Round Trip
 * Monsters
-* Shortest Routes I
+* [Shortest Routes I](./04-graph-algorithms/08-shortest-routes-1/)
+    * [Lucca](./04-graph-algorithms/08-shortest-routes-1/lucca.cpp)
 * Shortest Routes II
 * [High Score](./04-graph-algorithms/10-high-score/)
     * [Lucca](./04-graph-algorithms/10-high-score/lucca.cpp)
