@@ -137,7 +137,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Lucca](./04-graph-algorithms/25-planets-and-kingdoms/lucca.cpp)
 * [Giant Pizza](./04-graph-algorithms/26-giant-pizza/)
     * [Lucca](./04-graph-algorithms/26-giant-pizza/lucca.cpp)
-* Coin Collector
+* [Coin Collector](./04-graph-algorithms/27-coin-collector/)
+    * [Lucca](./04-graph-algorithms/27-coin-collector/lucca.cpp)
 * Mail Delivery
 * De Bruijn Sequence
 * Teleporters Path
