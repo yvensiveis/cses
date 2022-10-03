@@ -269,6 +269,7 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Meet in the Middle
 * [Hamming Distance](./10-advanced-techniques/02-hamming-distance)
     * [Lucca](./10-advanced-techniques/02-hamming-distance/lucca.cpp)
+    * [Pedro](./10-advanced-techniques/02-hamming-distance/pedro.cpp)
 * Beautiful Subgrids
 * Reachable Nodes
 * Reachability Queries
