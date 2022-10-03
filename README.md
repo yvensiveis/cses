@@ -73,7 +73,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Minimizing Coins
 * [Coin Combinations I](./03-dynamic-programming/03-coin-combinations-1/)
     * [Pedro](./03-dynamic-programming/03-coin-combinations-1/pedro.cpp)
-* Coin Combinations II
+* [Coin Combinations II](./03-dynamic-programming/04-coin-combinations-2/)
+    * [Pedro](./03-dynamic-programming/04-coin-combinations-2/pedro.cpp)
 * Removing Digits
 * Grid Paths
 * Book Shop
