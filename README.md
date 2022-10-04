@@ -205,7 +205,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Lucca](./06-tree-algorithms/06-company-queries-1/lucca.cpp)
 * [Company Queries II](./06-tree-algorithms/07-company-queries-2/)
     * [Lucca](./06-tree-algorithms/07-company-queries-2/lucca.cpp)
-* Distance Queries
+* [Distance Queries](./06-tree-algorithms/08-distance-queries/)
+    * [Lucca](./06-tree-algorithms/08-distance-queries/lucca.cpp)
 * Counting Paths
 * Subtree Queries
 * Path Queries
