@@ -263,8 +263,10 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 
 ## [Geometry](./09-geometry/)
 
-* Point Location Test
-* Line Segment Intersection
+* [Point Location Test](./09-geometry/01-point-location-test/)
+    * [Yvens](./09-geometry/01-point-location-test/yvens.cpp)
+* [Line Segment Intersection](./09-geometry/02-line-segment-intersection/)
+    * [Yvens](./09-geometry/02-line-segment-intersection/yvens.cpp)
 * [Polygon Area](./09-geometry/03-polygon-area/)
     * [Lucca](./09-geometry/03-polygon-area/lucca.cpp)
 * Point in Polygon
