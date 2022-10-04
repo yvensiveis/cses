@@ -23,7 +23,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Creating Strings
 * Apple Division
 * Chessboard and Queens
-* Digit Queries
+* [Digit Queries](./01-introductory-problems/18-digit-queries/)
+    * [Pedro](./01-introductory-problems/18-digit-queries/pedro.cpp)
 * Grid Paths
 
 ## [Sorting and Searching](./02-sorting-and-searching/)
