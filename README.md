@@ -173,7 +173,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Lucca](./05-range-queries/08-hotel-queries/lucca.cpp)
 * [List Removals](./05-range-queries/09-list-removals/)
     * [Lucca](./05-range-queries/09-list-removals/lucca.cpp)
-* Salary Queries
+* [Salary Queries](./05-range-queries/10-salary-queries/)
+    * [Lucca](./05-range-queries/10-salary-queries/lucca.cpp)
 * [Prefix Sum Queries](./05-range-queries/11-prefix-sum-queries/)
     * [Lucca](./05-range-queries/11-prefix-sum-queries/lucca.cpp)
 * [Pizzeria Queries](./05-range-queries/12-pizzeria-queries/)
