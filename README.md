@@ -290,8 +290,11 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Yvens](./09-geometry/02-line-segment-intersection/yvens.cpp)
 * [Polygon Area](./09-geometry/03-polygon-area/)
     * [Lucca](./09-geometry/03-polygon-area/lucca.cpp)
-* Point in Polygon
-* Polygon Lattice Points
+    * [Yvens](./09-geometry/03-polygon-area/yvens.cpp)
+* [Point in Polygon](./09-geometry/04-point-in-polygon/)
+    * [Yvens](./09-geometry/04-point-in-polygon/yvens.cpp)
+* [Polygon Lattice Points](./09-geometry/05-polygon-lattice-points/)
+    * [Yvens](./09-geometry/05-polygon-lattice-points/yvens.cpp)
 * Minimum Euclidean Distance
 * [Convex Hull](./09-geometry/07-convex-hull/)
     * [Lucca](./09-geometry/07-convex-hull/lucca.cpp)

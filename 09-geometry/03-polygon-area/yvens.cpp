@@ -22,21 +22,21 @@ struct P {
 	}
 };
 
-ll area(P pontos[], int n){
+ll area(P ponto[], int n){
     ll total = 0;
     for(int i=0; i<n; i++){
-        total += (pontos[i].y + pontos[i+1].y) * (pontos[i].x - pontos[i+1].x);
+        total += (ponto[i].y + ponto[i+1].y) * (ponto[i].x - ponto[i+1].x);
     }
     return abs(total);
 }
 
 int main() {
     int n; cin >> n;
-    P pontos[n+1];
+    P ponto[n+1];
     for(int i=0; i<n; i++)
-        pontos[i].read();
-    pontos[n] = pontos[0];
+        ponto[i].read();
+    ponto[n] = ponto[0];
 
-    cout << area(pontos, n) << '\n';
+    cout << area(ponto, n) << '\n';
     return 0;
 }
