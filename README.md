@@ -218,7 +218,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Divisor Analysis
 * Prime Multiples
 * Counting Coprime Pairs
-* Binomial Coefficients
+* [Binomial Coefficients](./07-mathematics/10-binomial-coefficients/)
+    * [Pedro](./07-mathematics/10-binomial-coefficients/pedro.cpp)
 * Creating Strings II
 * Distributing Apples
 * Christmas Party
