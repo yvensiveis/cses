@@ -132,7 +132,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * [Planets Queries I](./04-graph-algorithms/19-planet-queries-1/)
     * [Lucca](./04-graph-algorithms/19-planet-queries-1/lucca.cpp)
 * Planets Queries II
-* Planets Cycles
+* [Planets Cycles](./04-graph-algorithms/21-planets-cycles/)
+    * [Lucca](./04-graph-algorithms/21-planets-cycles/lucca.cpp)
 * [Road Reparation](./04-graph-algorithms/22-road-reparation/)
     * [Lucca](./04-graph-algorithms/22-road-reparation/lucca.cpp)
 * [Road Construction](./04-graph-algorithms/23-road-construction/)
