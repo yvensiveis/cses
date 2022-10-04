@@ -178,7 +178,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Distinct Values Queries
 * Increasing Array Queries
 * Forest Queries II
-* Range Updates and Sums
+* [Range Updates and Sums](./05-range-queries/17-range-updates-and-sums/)
+    * [Lucca](./05-range-queries/17-range-updates-and-sums/lucca.cpp)
 * Polynomial Queries
 * Range Queries and Copies
 
