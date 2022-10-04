@@ -237,7 +237,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Candy Lottery
 * Inversion Probability
 * Stick Game
-* Nim Game I
+* [Nim Game I](./07-mathematics/27-nim-game-1/)
+    * [Pedro](./07-mathematics/27-nim-game-1/pedro.cpp)
 * Nim Game II
 * Stair Game
 * Grundy's Game
