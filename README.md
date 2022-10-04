@@ -138,7 +138,9 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Lucca](./04-graph-algorithms/22-road-reparation/lucca.cpp)
 * [Road Construction](./04-graph-algorithms/23-road-construction/)
     * [Lucca](./04-graph-algorithms/23-road-construction/lucca.cpp)
-* Flight Routes Check
+* [Flight Routes Check](./04-graph-algorithms/24-flight-routes-check/)
+    * [Lucca - dfs](./04-graph-algorithms/24-flight-routes-check/lucca-dfs.cpp)
+    * [Lucca - kosaraju](./04-graph-algorithms/24-flight-routes-check/lucca-kosaraju.cpp)
 * [Planets and Kingdoms](./04-graph-algorithms/25-planets-and-kingdoms/)
     * [Lucca](./04-graph-algorithms/25-planets-and-kingdoms/lucca.cpp)
 * [Giant Pizza](./04-graph-algorithms/26-giant-pizza/)
