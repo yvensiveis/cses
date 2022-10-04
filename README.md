@@ -80,7 +80,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Book Shop
 * Array Description
 * Counting Towers
-* Edit Distance
+* [Edit Distance](./03-dynamic-programming/10-edit-distance/)
+    * [Pedro](./03-dynamic-programming/10-edit-distance/pedro.cpp)
 * Rectangle Cutting
 * Money Sums
 * Removal Game
