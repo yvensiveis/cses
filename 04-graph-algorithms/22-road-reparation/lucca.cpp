@@ -56,7 +56,7 @@ void solve() {
     for (int i = 1; i <= n; ++i)
         components.insert(find(i));
     if (components.size() != 1)
-        cout << "IMPOSSIBLE\n";
+        cout << "IMPOSSIBLE\n"; // Da pra checar se o numero de arestas usadas foi n-1
     else
         cout << ans << '\n';
 }
