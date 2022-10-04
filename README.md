@@ -169,7 +169,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * [Forest Queries](./05-range-queries/07-forest-queries/)
     * [Lucca](./05-range-queries/07-forest-queries/lucca.cpp)
     * [Pedro](./05-range-queries/07-forest-queries/pedro.cpp)
-* Hotel Queries
+* [Hotel Queries](./05-range-queries/08-hotel-queries/)
+    * [Lucca](./05-range-queries/08-hotel-queries/lucca.cpp)
 * [List Removals](./05-range-queries/09-list-removals/)
     * [Lucca](./05-range-queries/09-list-removals/lucca.cpp)
 * Salary Queries
