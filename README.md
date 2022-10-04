@@ -23,7 +23,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Creating Strings
 * Apple Division
 * Chessboard and Queens
-* Digit Queries
+* [Digit Queries](./01-introductory-problems/18-digit-queries/)
+    * [Pedro](./01-introductory-problems/18-digit-queries/pedro.cpp)
 * Grid Paths
 
 ## [Sorting and Searching](./02-sorting-and-searching/)
@@ -80,7 +81,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Book Shop
 * Array Description
 * Counting Towers
-* Edit Distance
+* [Edit Distance](./03-dynamic-programming/10-edit-distance/)
+    * [Pedro](./03-dynamic-programming/10-edit-distance/pedro.cpp)
 * Rectangle Cutting
 * Money Sums
 * Removal Game
@@ -101,7 +103,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Building Roads
 * Message Route
 * Building Teams
-* Round Trip
+* [Round Trip](./04-graph-algorithms/06-round-trip/)
+    * [Lucca](./04-graph-algorithms/06-round-trip/lucca.cpp)
 * Monsters
 * [Shortest Routes I](./04-graph-algorithms/08-shortest-routes-1/)
     * [Lucca](./04-graph-algorithms/08-shortest-routes-1/lucca.cpp)
@@ -129,7 +132,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * [Planets Queries I](./04-graph-algorithms/19-planet-queries-1/)
     * [Lucca](./04-graph-algorithms/19-planet-queries-1/lucca.cpp)
 * Planets Queries II
-* Planets Cycles
+* [Planets Cycles](./04-graph-algorithms/21-planets-cycles/)
+    * [Lucca](./04-graph-algorithms/21-planets-cycles/lucca.cpp)
 * [Road Reparation](./04-graph-algorithms/22-road-reparation/)
     * [Lucca](./04-graph-algorithms/22-road-reparation/lucca.cpp)
 * [Road Construction](./04-graph-algorithms/23-road-construction/)
@@ -164,10 +168,13 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Lucca - prefix sum](./05-range-queries/06-range-update-queries/lucca-prefix-sum.cpp)
 * [Forest Queries](./05-range-queries/07-forest-queries/)
     * [Lucca](./05-range-queries/07-forest-queries/lucca.cpp)
-* Hotel Queries
+    * [Pedro](./05-range-queries/07-forest-queries/pedro.cpp)
+* [Hotel Queries](./05-range-queries/08-hotel-queries/)
+    * [Lucca](./05-range-queries/08-hotel-queries/lucca.cpp)
 * [List Removals](./05-range-queries/09-list-removals/)
     * [Lucca](./05-range-queries/09-list-removals/lucca.cpp)
-* Salary Queries
+* [Salary Queries](./05-range-queries/10-salary-queries/)
+    * [Lucca](./05-range-queries/10-salary-queries/lucca.cpp)
 * [Prefix Sum Queries](./05-range-queries/11-prefix-sum-queries/)
     * [Lucca](./05-range-queries/11-prefix-sum-queries/lucca.cpp)
 * [Pizzeria Queries](./05-range-queries/12-pizzeria-queries/)
@@ -177,22 +184,30 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Distinct Values Queries
 * Increasing Array Queries
 * Forest Queries II
-* Range Updates and Sums
-* Polynomial Queries
+* [Range Updates and Sums](./05-range-queries/17-range-updates-and-sums/)
+    * [Lucca](./05-range-queries/17-range-updates-and-sums/lucca.cpp)
+* [Polynomial Queries](./05-range-queries/18-polynomial-queries/)
+    * [Lucca](./05-range-queries/18-polynomial-queries/lucca.cpp)
 * Range Queries and Copies
 
 ## [Tree Algorithms](./06-tree-algorithms/)
 
 * [Subordinates](./06-tree-algorithms/01-subordinates/)
     * [Lucca](./06-tree-algorithms/01-subordinates/lucca.cpp)
-* Tree Matching
-* Tree Diameter
+    * [Pedro](./06-tree-algorithms/01-subordinates/pedro.cpp)
+* [Tree Matching](./06-tree-algorithms/02-tree-matching/)
+    * [Lucca](./06-tree-algorithms/02-tree-matching/lucca.cpp)
+* [Tree Diameter](./06-tree-algorithms/03-tree-diameter/)
+    * [Lucca](./06-tree-algorithms/03-tree-diameter/lucca.cpp)
 * [Tree Distances I](./06-tree-algorithms/04-tree-distances-1/)
     * [Lucca](./06-tree-algorithms/04-tree-distances-1/lucca.cpp)
 * Tree Distances II
-* Company Queries I
-* Company Queries II
-* Distance Queries
+* [Company Queries I](./06-tree-algorithms/06-company-queries-1/)
+    * [Lucca](./06-tree-algorithms/06-company-queries-1/lucca.cpp)
+* [Company Queries II](./06-tree-algorithms/07-company-queries-2/)
+    * [Lucca](./06-tree-algorithms/07-company-queries-2/lucca.cpp)
+* [Distance Queries](./06-tree-algorithms/08-distance-queries/)
+    * [Lucca](./06-tree-algorithms/08-distance-queries/lucca.cpp)
 * Counting Paths
 * Subtree Queries
 * Path Queries
@@ -215,7 +230,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Divisor Analysis
 * Prime Multiples
 * Counting Coprime Pairs
-* Binomial Coefficients
+* [Binomial Coefficients](./07-mathematics/10-binomial-coefficients/)
+    * [Pedro](./07-mathematics/10-binomial-coefficients/pedro.cpp)
 * Creating Strings II
 * Distributing Apples
 * Christmas Party
@@ -231,8 +247,10 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Moving Robots
 * Candy Lottery
 * Inversion Probability
-* Stick Game
-* Nim Game I
+* [Stick Game](./07-mathematics/26-stick-game/)
+    * [Pedro](./07-mathematics/26-stick-game/pedro.cpp)
+* [Nim Game I](./07-mathematics/27-nim-game-1/)
+    * [Pedro](./07-mathematics/27-nim-game-1/pedro.cpp)
 * Nim Game II
 * Stair Game
 * Grundy's Game
@@ -246,7 +264,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Pedro - KMP](./08-string-algorithms/02-string-matching/pedro-kmp.cpp)
 * [Finding Borders](./08-string-algorithms/03-finding-borders/)
     * [Pedro](./08-string-algorithms/03-finding-borders/pedro.cpp)
-* Finding Periods
+* [Finding Periods](./08-string-algorithms/04-finding-periods/)
+    * [Pedro](./08-string-algorithms/04-finding-periods/pedro.cpp)
 * Minimal Rotation
 * Longest Palindrome
 * Required Substring
