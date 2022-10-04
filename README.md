@@ -249,7 +249,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Pedro - KMP](./08-string-algorithms/02-string-matching/pedro-kmp.cpp)
 * [Finding Borders](./08-string-algorithms/03-finding-borders/)
     * [Pedro](./08-string-algorithms/03-finding-borders/pedro.cpp)
-* Finding Periods
+* [Finding Periods](./08-string-algorithms/04-finding-periods/)
+    * [Pedro](./08-string-algorithms/04-finding-periods/pedro.cpp)
 * Minimal Rotation
 * Longest Palindrome
 * Required Substring
