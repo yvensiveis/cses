@@ -71,8 +71,10 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 
 * Dice Combinations
 * Minimizing Coins
-* Coin Combinations I
-* Coin Combinations II
+* [Coin Combinations I](./03-dynamic-programming/03-coin-combinations-1/)
+    * [Pedro](./03-dynamic-programming/03-coin-combinations-1/pedro.cpp)
+* [Coin Combinations II](./03-dynamic-programming/04-coin-combinations-2/)
+    * [Pedro](./03-dynamic-programming/04-coin-combinations-2/pedro.cpp)
 * Removing Digits
 * Grid Paths
 * Book Shop
@@ -129,14 +131,17 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Lucca](./04-graph-algorithms/19-planet-queries-1/lucca.cpp)
 * Planets Queries II
 * Planets Cycles
-* Road Reparation
-* Road Construction
+* [Road Reparation](./04-graph-algorithms/22-road-reparation/)
+    * [Lucca](./04-graph-algorithms/22-road-reparation/lucca.cpp)
+* [Road Construction](./04-graph-algorithms/23-road-construction/)
+    * [Lucca](./04-graph-algorithms/23-road-construction/lucca.cpp)
 * Flight Routes Check
 * [Planets and Kingdoms](./04-graph-algorithms/25-planets-and-kingdoms/)
     * [Lucca](./04-graph-algorithms/25-planets-and-kingdoms/lucca.cpp)
 * [Giant Pizza](./04-graph-algorithms/26-giant-pizza/)
     * [Lucca](./04-graph-algorithms/26-giant-pizza/lucca.cpp)
-* Coin Collector
+* [Coin Collector](./04-graph-algorithms/27-coin-collector/)
+    * [Lucca](./04-graph-algorithms/27-coin-collector/lucca.cpp)
 * Mail Delivery
 * De Bruijn Sequence
 * Teleporters Path
@@ -158,13 +163,18 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * [Range Update Queries](./05-range-queries/06-range-update-queries/)
     * [Lucca - lazy](./05-range-queries/06-range-update-queries/lucca-lazy.cpp)
     * [Lucca - prefix sum](./05-range-queries/06-range-update-queries/lucca-prefix-sum.cpp)
-* Forest Queries
+* [Forest Queries](./05-range-queries/07-forest-queries/)
+    * [Lucca](./05-range-queries/07-forest-queries/lucca.cpp)
 * Hotel Queries
-* List Removals
+* [List Removals](./05-range-queries/09-list-removals/)
+    * [Lucca](./05-range-queries/09-list-removals/lucca.cpp)
 * Salary Queries
-* Prefix Sum Queries
-* Pizzeria Queries
-* Subarray Sum Queries
+* [Prefix Sum Queries](./05-range-queries/11-prefix-sum-queries/)
+    * [Lucca](./05-range-queries/11-prefix-sum-queries/lucca.cpp)
+* [Pizzeria Queries](./05-range-queries/12-pizzeria-queries/)
+    * [Lucca](./05-range-queries/12-pizzeria-queries/lucca.cpp)
+* [Subarray Sum Queries](./05-range-queries/13-subarray-sum-queries/)
+    * [Lucca](./05-range-queries/13-subarray-sum-queries/lucca.cpp)
 * Distinct Values Queries
 * Increasing Array Queries
 * Forest Queries II
@@ -196,9 +206,11 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 ## [Mathematics](./07-mathematics/)
 
 * Josephus Queries
-* Exponentiation
+* [Exponentiation](./07-mathematics/02-exponentiation/)
+    * [Pedro](./07-mathematics/02-exponentiation/pedro.cpp)
 * Exponentiation II
-* Counting Divisors
+* [Counting Divisors](./07-mathematics/04-counting-divisors/)
+    * [Pedro](./07-mathematics/04-counting-divisors/pedro.cpp)
 * Common Divisors
 * Sum of Divisors
 * Divisor Analysis
@@ -267,6 +279,7 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Meet in the Middle
 * [Hamming Distance](./10-advanced-techniques/02-hamming-distance)
     * [Lucca](./10-advanced-techniques/02-hamming-distance/lucca.cpp)
+    * [Pedro](./10-advanced-techniques/02-hamming-distance/pedro.cpp)
 * Beautiful Subgrids
 * Reachable Nodes
 * Reachability Queries
