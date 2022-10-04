@@ -236,7 +236,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Moving Robots
 * Candy Lottery
 * Inversion Probability
-* Stick Game
+* [Stick Game](./07-mathematics/26-stick-game/)
+    * [Pedro](./07-mathematics/26-stick-game/pedro.cpp)
 * [Nim Game I](./07-mathematics/27-nim-game-1/)
     * [Pedro](./07-mathematics/27-nim-game-1/pedro.cpp)
 * Nim Game II
