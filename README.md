@@ -82,7 +82,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Lucca](./03-dynamic-programming/07-book-shop/lucca.cpp)
 * [Array Description](./03-dynamic-programming/08-array-description/)
     * [Lucca](./03-dynamic-programming/08-array-description/lucca.cpp)
-* Counting Towers
+* [Counting Towers](./03-dynamic-programming/09-counting-towers/)
+    * [Lucca](./03-dynamic-programming/09-counting-towers/lucca.cpp)
 * [Edit Distance](./03-dynamic-programming/10-edit-distance/)
     * [Pedro](./03-dynamic-programming/10-edit-distance/pedro.cpp)
 * Rectangle Cutting
