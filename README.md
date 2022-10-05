@@ -183,7 +183,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Lucca](./05-range-queries/12-pizzeria-queries/lucca.cpp)
 * [Subarray Sum Queries](./05-range-queries/13-subarray-sum-queries/)
     * [Lucca](./05-range-queries/13-subarray-sum-queries/lucca.cpp)
-* Distinct Values Queries
+* [Distinct Values Queries](./05-range-queries/14-distinct-values-queries/)
+    * [Lucca](./05-range-queries/13-subarray-sum-queries/lucca.cpp)
 * Increasing Array Queries
 * Forest Queries II
 * [Range Updates and Sums](./05-range-queries/17-range-updates-and-sums/)
