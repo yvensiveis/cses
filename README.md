@@ -254,6 +254,7 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Pedro](./07-mathematics/26-stick-game/pedro.cpp)
 * [Nim Game I](./07-mathematics/27-nim-game-1/)
     * [Pedro](./07-mathematics/27-nim-game-1/pedro.cpp)
+    * [Lucca](./07-mathematics/27-nim-game-1/lucca.cpp)
 * [Nim Game II](./07-mathematics/27-nim-game-1/)
     * [Lucca](./07-mathematics/28-nim-game-2/lucca.cpp)
 * Stair Game
