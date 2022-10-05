@@ -78,7 +78,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Pedro](./03-dynamic-programming/04-coin-combinations-2/pedro.cpp)
 * Removing Digits
 * Grid Paths
-* Book Shop
+* [Book Shop](./03-dynamic-programming/07-book-shop/)
+    * [Lucca](./03-dynamic-programming/07-book-shop/lucca.cpp)
 * Array Description
 * Counting Towers
 * [Edit Distance](./03-dynamic-programming/10-edit-distance/)
