@@ -89,7 +89,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Rectangle Cutting
 * [Money Sums](./03-dynamic-programming/12-money-sums/)
     * [Lucca](./03-dynamic-programming/12-money-sums/lucca.cpp)
-* Removal Game
+* [Removal Game](./03-dynamic-programming/13-removal-game/)
+    * [Lucca](./03-dynamic-programming/13-removal-game/lucca.cpp)
 * Two Sets II
 * Increasing Subsequence
 * Projects
