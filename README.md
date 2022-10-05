@@ -252,6 +252,7 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Inversion Probability
 * [Stick Game](./07-mathematics/26-stick-game/)
     * [Pedro](./07-mathematics/26-stick-game/pedro.cpp)
+    * [Lucca](./07-mathematics/26-stick-game/lucca.cpp)
 * [Nim Game I](./07-mathematics/27-nim-game-1/)
     * [Pedro](./07-mathematics/27-nim-game-1/pedro.cpp)
     * [Lucca](./07-mathematics/27-nim-game-1/lucca.cpp)
