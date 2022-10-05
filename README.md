@@ -80,7 +80,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Grid Paths
 * [Book Shop](./03-dynamic-programming/07-book-shop/)
     * [Lucca](./03-dynamic-programming/07-book-shop/lucca.cpp)
-* Array Description
+* [Array Description](./03-dynamic-programming/08-array-description/)
+    * [Lucca](./03-dynamic-programming/08-array-description/lucca.cpp)
 * Counting Towers
 * [Edit Distance](./03-dynamic-programming/10-edit-distance/)
     * [Pedro](./03-dynamic-programming/10-edit-distance/pedro.cpp)
