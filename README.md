@@ -87,7 +87,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * [Edit Distance](./03-dynamic-programming/10-edit-distance/)
     * [Pedro](./03-dynamic-programming/10-edit-distance/pedro.cpp)
 * Rectangle Cutting
-* Money Sums
+* [Money Sums](./03-dynamic-programming/12-money-sums/)
+    * [Lucca](./03-dynamic-programming/12-money-sums/lucca.cpp)
 * Removal Game
 * Two Sets II
 * Increasing Subsequence
