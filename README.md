@@ -224,7 +224,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * [Distance Queries](./06-tree-algorithms/08-distance-queries/)
     * [Lucca](./06-tree-algorithms/08-distance-queries/lucca.cpp)
 * Counting Paths
-* Subtree Queries
+* [Subtree Queries](./06-tree-algorithms/10-subtree-queries/)
+    * [Lucca](./06-tree-algorithms/10-subtree-queries/lucca.cpp)
 * Path Queries
 * Path Queries II
 * Distinct Colors
