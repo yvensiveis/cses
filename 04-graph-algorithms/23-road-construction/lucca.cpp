@@ -1,3 +1,8 @@
+/**
+Aplicacao direta de DSU mantendo
+tamanho do maior componente e
+numero de componentes
+**/
 #include <bits/stdc++.h>
 #define pb push_back
 #define all(x) x.begin(), x.end()

@@ -1,3 +1,6 @@
+/**
+Aplicacao direta de Floyd-Warshall
+**/
 #include <bits/stdc++.h>
 #define pb push_back
 #define all(x) x.begin(), x.end()

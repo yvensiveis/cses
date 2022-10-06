@@ -1,13 +1,13 @@
 /**
     Ideia:
-    * Bellman-ford com n iterações para definir se
-    * há ciclo de peso negativo. Se houver, reconstruir
+    * Bellman-ford com n iteracoes para definir se
+    * ha ciclo de peso negativo. Se houver, reconstruir
     * ciclo com vetor de ancestrais.
-    Observação:
-    * Se houver mais de um componente, convém adicionar
-    * um nó A com um aresta de peso 0 para todos os outros
-    * nós e tomar A como origem do Bellman-ford, para garantir
-    * que todo o grafo é processado.
+    Observacao:
+    * Se houver mais de um componente, convem adicionar
+    * um node A com um aresta de peso 0 para todos os outros
+    * nodes e tomar A como origem do Bellman-ford, para garantir
+    * que todo o grafo eh processado.
 **/
 #include <bits/stdc++.h>
 #define pb push_back
@@ -35,7 +35,7 @@ void solve() {
     vector<E> edges(m);
     for (E &e : edges) e.read();
     for (int i = 2; i <= n; i++) dist[i] = INF;
-    int start; // So é útil na n-ésima iteração, para marcar um nó afetado pelo ciclo
+    int start; // So eh util na n-esima iteração, para marcar um no afetado pelo ciclo
     for (int i = 0; i < n; i++) {
         start = 0;
         for (E e : edges) {

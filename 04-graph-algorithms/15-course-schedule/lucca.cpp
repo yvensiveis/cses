@@ -1,8 +1,8 @@
 /**
-    Aplicação direta de Ordenação Topológica:
-    * Adicionamos cada nó sem dependências à resposta
-    * e diminuímos o número de dependências daqueles
-    * que dependem dele, atualizando a fila de nós
+    Aplicacao direta de Ordenacao Topologica:
+    * Adicionamos cada node sem dependencias a resposta
+    * e diminuimos o numero de dependencias daqueles
+    * que dependem dele, atualizando a fila de nodes
     * independentes.
     Complexidade:
     * O(n)

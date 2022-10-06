@@ -1,12 +1,12 @@
 /**
  Ideia:
- * A questão pede o caminho de maior custo
+ * A questao pede o caminho de maior custo
  * em um grafo direcionado com arestas de valores
  * negativos, nulos, ou positivos. Podemos inverter
  * o sinal de toda aresta e encontrar o caminho mínimo
  * com Bellman-Ford.
  * Para checar se algum ciclo de peso negativo afeta
- * o vértice N, relaxamos as arestas mais N - 1 vezes
+ * o vertice N, relaxamos as arestas mais N - 1 vezes
  * para propagar "-INF".
 **/
 #include <bits/stdc++.h>

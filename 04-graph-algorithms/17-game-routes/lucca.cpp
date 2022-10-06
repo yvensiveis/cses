@@ -2,7 +2,7 @@
  Ideia:
  * DP no grafo reverso.
  Estado da DP:
- * dp[s]: quantos caminhos vão de 1 até s
+ * dp[s]: quantos caminhos vão de 1 ate s
  Base da DP:
  * dp[1] = 1;
 **/
