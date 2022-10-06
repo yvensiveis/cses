@@ -8,6 +8,7 @@
  * a subarvore dele representa.
  * Depois da planarizacao, se resume a update
  * em ponto e query em range, com seg ou BIT.
+ Tecnica do Marsupial
 **/
 #include <bits/stdc++.h>
 #define pb push_back

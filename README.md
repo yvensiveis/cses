@@ -189,18 +189,14 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * [Prefix Sum Queries](./05-range-queries/11-prefix-sum-queries/)
     * [Lucca](./05-range-queries/11-prefix-sum-queries/lucca.cpp)
 * [Pizzeria Queries](./05-range-queries/12-pizzeria-queries/)
-    * [Lucca](./05-range-queries/13-subarray-sum-queries/lucca.cpp)
-* [Distinct Values Queries](./05-range-queries/14-distinct-values-queries/)
-    * [Lucca](./05-range-queries/13-subarray-sum-queries/lucca.cpp)
-* Increasing Array Queries
-* Forest Queries II
     * [Lucca](./05-range-queries/12-pizzeria-queries/lucca.cpp)
 * [Subarray Sum Queries](./05-range-queries/13-subarray-sum-queries/)
     * [Lucca](./05-range-queries/13-subarray-sum-queries/lucca.cpp)
 * [Distinct Values Queries](./05-range-queries/14-distinct-values-queries/)
     * [Lucca](./05-range-queries/14-distinct-values-queries/lucca.cpp)
 * Increasing Array Queries
-* Forest Queries II
+* [Forest Queries II](./05-range-queries/16-forest-queries-2/)
+    * [Lucca](./05-range-queries/16-forest-queries-2/lucca.cpp)
 * [Range Updates and Sums](./05-range-queries/17-range-updates-and-sums/)
     * [Lucca](./05-range-queries/17-range-updates-and-sums/lucca.cpp)
 * [Polynomial Queries](./05-range-queries/18-polynomial-queries/)
