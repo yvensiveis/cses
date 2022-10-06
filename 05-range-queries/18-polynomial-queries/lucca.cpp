@@ -1,4 +1,7 @@
 /**
+ Problema:
+ * Query de update adicionando 1 no primeiro valor
+ * no range [a,b], 2 no segundo e assim por diante.
  Ideia:
  * O lazy de cada no eh um par (v, cnt) em que 
  * v eh o primeiro valor a ser adicionado no range

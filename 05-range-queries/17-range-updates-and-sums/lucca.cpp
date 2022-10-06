@@ -1,4 +1,8 @@
 /**
+ Queries:
+ * Adicionar x em todo elemento de [a,b]
+ * Tornar todo elemento de [a,b] x
+ * Calcular soma do intervalo [a,b]
  Ideia:
  * O lazy de cada no eh um par (v, t) em que 
  * t eh o tipo da atualizacao (1 pra incrementar

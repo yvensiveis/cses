@@ -1,3 +1,5 @@
+/* Query de maior soma de prefixo em 
+   range e update em ponto */
 #include <bits/stdc++.h>
 #define pb push_back
 #define all(x) x.begin(), x.end()

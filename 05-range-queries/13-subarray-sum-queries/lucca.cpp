@@ -1,3 +1,4 @@
+/* Queries de Kadane e update em ponto */
 #include <bits/stdc++.h>
 #define pb push_back
 #define all(x) x.begin(), x.end()
