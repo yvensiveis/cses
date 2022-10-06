@@ -60,7 +60,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Nearest Smaller Values
 * Subarray Sums I
 * Subarray Sums II
-* Subarray Divisibility
+* [Subarray Divisibility](./02-sorting-and-searching/29-subarray-divisibility/)
+    * [Lucca](./02-sorting-and-searching/29-subarray-divisibility/lucca.cpp)
 * Subarray Distinct Values
 * Array Division
 * Sliding Median
