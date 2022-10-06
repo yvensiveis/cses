@@ -59,7 +59,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Sum of Four Values
 * Nearest Smaller Values
 * Subarray Sums I
-* Subarray Sums II
+* [Subarray Sums II](./02-sorting-and-searching/28-subarray-sums-2/)
+    * [Lucca](./02-sorting-and-searching/28-subarray-sums-2/lucca.cpp)
 * [Subarray Divisibility](./02-sorting-and-searching/29-subarray-divisibility/)
     * [Lucca](./02-sorting-and-searching/29-subarray-divisibility/lucca.cpp)
 * Subarray Distinct Values
