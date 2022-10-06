@@ -107,7 +107,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Pedro](./04-graph-algorithms/02-labyrinth/pedro.cpp)
 * [Building Roads](./04-graph-algorithms/03-building-roads/)
     * [Lucca](./04-graph-algorithms/03-building-roads/lucca.cpp)
-* Message Route
+* [Message Route](./04-graph-algorithms/04-message-route/)
+    * [Lucca](./04-graph-algorithms/04-message-route/lucca.cpp)
 * Building Teams
 * [Round Trip](./04-graph-algorithms/06-round-trip/)
     * [Lucca](./04-graph-algorithms/06-round-trip/lucca.cpp)
