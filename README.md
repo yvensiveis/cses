@@ -64,7 +64,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * [Subarray Divisibility](./02-sorting-and-searching/29-subarray-divisibility/)
     * [Lucca](./02-sorting-and-searching/29-subarray-divisibility/lucca.cpp)
 * Subarray Distinct Values
-* Array Division
+* [Array Division](./02-sorting-and-searching/31-array-division/)
+    * [Lucca](./02-sorting-and-searching/31-array-division/lucca.cpp)
 * Sliding Median
 * Sliding Cost
 * Movie Festival II
