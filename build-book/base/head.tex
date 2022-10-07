@@ -1,15 +1,16 @@
-\documentclass{article}
+\title{Yvensíveis' Solutions for CSES Problems}
+\author{Lucca Miranda Nunes, Pedro César Mesquita Ferreira, Yvens Ian Prado Porto}
+
+\documentclass[12pt, a4paper, twoside]{article}
 \usepackage[utf8]{inputenc}
 
 \usepackage{amsmath}
 \usepackage{listings}
 \usepackage{xcolor}
 \usepackage{hyperref}
-\usepackage[margin=0.5in]{geometry}
+\usepackage[landscape, left=1cm, right=1cm, top=1cm, bottom=2cm]{geometry}
 
-\title{Yvensíveis' Solutions for CSES Problems}
-\author{Lucca M. Nunes, Pedro César Mesquita F., Yvens Ian P. Porto}
-\date{October 2022}
+\UseRawInputEncoding
 
 \hypersetup{linktocpage}
 
@@ -19,7 +20,10 @@
 \definecolor{cyan}{HTML}{1122FF}
 \definecolor{backcolour}{HTML}{EEEEEE}
 
-\lstdefinestyle{yvensiveis-listing-code-style}{
+\setlength{\columnseprule}{0.2pt}
+\setlength{\columnsep}{15pt}
+
+\lstset{
     backgroundcolor=\color{backcolour},
     commentstyle=\color{gray},
     keywordstyle=\color{cyan},
@@ -38,10 +42,9 @@
     tabsize=2
 }
 
-\lstset{style=yvensiveis-listing-code-style}
-
 \begin{document}
 
+\twocolumn
 \maketitle
 
 \tableofcontents
