@@ -164,7 +164,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Teleporters Path
 * Hamiltonian Flights
 * Knight's Tour
-* Download Speed
+* [Download Speed](./04-graph-algorithms/33-download-speed/)
+    * [Lucca](./04-graph-algorithms/33-download-speed/lucca.cpp)
 * Police Chase
 * School Dance
 * Distinct Routes
