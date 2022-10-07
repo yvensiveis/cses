@@ -166,7 +166,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Knight's Tour
 * [Download Speed](./04-graph-algorithms/33-download-speed/)
     * [Lucca](./04-graph-algorithms/33-download-speed/lucca.cpp)
-* Police Chase
+* [Police Chase](./04-graph-algorithms/34-police-chase/)
+    * [Lucca](./04-graph-algorithms/34-police-chase/lucca.cpp)
 * School Dance
 * Distinct Routes
 
