@@ -168,7 +168,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Lucca](./04-graph-algorithms/33-download-speed/lucca.cpp)
 * [Police Chase](./04-graph-algorithms/34-police-chase/)
     * [Lucca](./04-graph-algorithms/34-police-chase/lucca.cpp)
-* School Dance
+* [School Dance](./04-graph-algorithms/35-school-dance/)
+    * [Lucca](./04-graph-algorithms/35-school-dance/lucca.cpp)
 * Distinct Routes
 
 ## [Range Queries](./05-range-queries/)
