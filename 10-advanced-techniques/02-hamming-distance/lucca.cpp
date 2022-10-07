@@ -1,7 +1,6 @@
 /**
 * Sacada: hamming distance entre duas strings binárias
-* é igual ao popcount do xor.
-* O(n²) para encontrar o melhor par.
+* eh igual ao popcount do xor.
 **/
 
 #include <bits/stdc++.h>

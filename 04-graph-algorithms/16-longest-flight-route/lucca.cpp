@@ -1,11 +1,11 @@
 /**
     Ideia:
     * Rodar uma DP no grafo com arestas invertidas
-    * para encontrar o maior número de vértices no
-    * caminho de s até 1.
-    * OBS: antes checar se N é alcançável com DFS/BFS
+    * para encontrar o maior número de vertices no
+    * caminho de s ate 1.
+    * OBS: antes checar se N e alcançável com DFS/BFS
     Estado da DP:
-    * dp[s]: maior número de vértices no caminho de 1 até s
+    * dp[s]: maior número de vertices no caminho de 1 ate s
     Caso base da DP:
     * dp[1] = 0
     Complexidade:

@@ -4,7 +4,7 @@
   * Kosaraju's + Top sort ao contrário definindo
   * os valores verdade.
   * Se, depois do Kosaraju's, encotrar x e ~x no mesmo
-  * SSC, a proposição é falsa.
+  * SSC, a proposição eh falsa.
  * OBS:
   * Muuuitos detalhes de implementação.
   * Tomar cuidado com a utilização ou não

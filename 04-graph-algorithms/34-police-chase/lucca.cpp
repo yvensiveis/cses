@@ -8,7 +8,8 @@ using namespace std;
 typedef long long int ll;
  
 const int MAXN = 1e5 + 10, M = 1e9 + 7, INF = 2e9;
- 
+
+/* dinic copied from https://github.com/brunomaletta/Biblioteca */
 struct dinic {
 	const bool scaling = false; // com scaling -> O(nm log(MAXCAP)),
 	int lim;                    // com constante alta

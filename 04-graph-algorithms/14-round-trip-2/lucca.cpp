@@ -2,10 +2,10 @@
     Detecção de ciclos em grafo direcionado.
 
     Ideia:
-    * Marcar nós de acordo com seu estado de processamento:
-    * - 0: o nó não foi processado
-    * - 1: o nó está sendo processado
-    * - 2: o nó ja foi processado
+    * Marcar nos de acordo com seu estado de processamento:
+    * - 0: o no não foi processado
+    * - 1: o no está sendo processado
+    * - 2: o no ja foi processado
     * Se, durante a DFS, encontrarmos um no no estado 1,
     * encontramos um ciclo.
 

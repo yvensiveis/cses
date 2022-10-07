@@ -2,10 +2,10 @@
  * Basta calcular a norma do produto 
  * vetorial dos vetores correspondentes
  * aos pontos adjacentes. O sinal do
- * produto corrige a resposta para polígonos
+ * produto corrige a resposta para poligonos
  * não convexos
  OBS:
- * Não esquecer de tirar o módulo ao final.
+ * Não esquecer de tirar o modulo ao final.
 **/
 #include <bits/stdc++.h>
 #define pb push_back

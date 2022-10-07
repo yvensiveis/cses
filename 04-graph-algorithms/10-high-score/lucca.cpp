@@ -3,7 +3,7 @@
  * A questao pede o caminho de maior custo
  * em um grafo direcionado com arestas de valores
  * negativos, nulos, ou positivos. Podemos inverter
- * o sinal de toda aresta e encontrar o caminho mínimo
+ * o sinal de toda aresta e encontrar o caminho minimo
  * com Bellman-Ford.
  * Para checar se algum ciclo de peso negativo afeta
  * o vertice N, relaxamos as arestas mais N - 1 vezes
@@ -40,9 +40,9 @@ void solve() {
 			if (dist[e.a] == INF) continue;
 			if (dist[e.b] > dist[e.a] + e.w) {
 				if (i >= n-1) {
-                    // Se é possível relaxar o vértice após os n-1 relaxamentos, há ciclo negativo.
+                    // Se eh possivel relaxar o vertice apos os n-1 relaxamentos, ha ciclo negativo.
 					affected[e.b] = true;
-					dist[e.b] = -INF; // Marcar como -INF para propagar aos demais vértices
+					dist[e.b] = -INF; // Marcar como -INF para propagar aos demais vertices
 				} else {
 					dist[e.b] = dist[e.a] + e.w;
 				}

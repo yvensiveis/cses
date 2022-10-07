@@ -1,25 +1,25 @@
 /**
  Ideia:
- * Dijkstra para pegar o preço mínimo e
+ * Dijkstra para pegar o preço minimo e
  * DP no grafo reverso para as demais perguntas.
  * Struct ajuda a unir as respostas :)
  Estado das DP's:
- * - paths[s]: quandos caminhos de custo mínimo
- * existem de 1 até s
- * - min_edges[s]: número mínimo de arestas em
- * um caminho de custo mínimo de 1 até s
+ * - paths[s]: quandos caminhos de custo minimo
+ * existem de 1 ate s
+ * - min_edges[s]: número minimo de arestas em
+ * um caminho de custo minimo de 1 ate s
  * - max_edges[s]: número máximo de arestas em
- * um caminho de custo mínimo de 1 até s
+ * um caminho de custo minimo de 1 ate s
  Base da DP:
  * paths[1] = 1;
  * min_edges[1] = 0;
  * max_edges[1] = 0;
  OBS:
  * - Lembrar de so adicionar dp(u) se u faz parte
- * de um caminho mínimo até s;
+ * de um caminho minimo ate s;
  * - Tomar cuidado ao implementar as transições;
  * - Não esquecer de tirar o modulo nem de inicializar
- * os nós corretamente.
+ * os nos corretamente.
 **/
 #include <bits/stdc++.h>
 #define pb push_back

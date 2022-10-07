@@ -1,5 +1,5 @@
 /**
-* BFS em grid com reconstrução do caminho
+* BFS em grid com reconstrucao do caminho
 **/
 
 #include <bits/stdc++.h>

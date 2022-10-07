@@ -3,7 +3,7 @@
  OBS:
  * Tomar cuidado com a ordem dos for's no
  * preprocessamento de ancestrais;
- * Checar qual LOG é suficiente.
+ * Checar qual LOG eh suficiente.
 **/
 #include <bits/stdc++.h>
 #define pb push_back

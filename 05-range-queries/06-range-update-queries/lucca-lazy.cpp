@@ -1,7 +1,7 @@
 /**
  * Aplicação direta de lazy propagation.
- * Tomar cuidado com indexação do input e
- * com a atualização dos nós de acordo com
+ * Tomar cuidado com indexacao do input e
+ * com a atualizacao dos nos de acordo com
  * o lazy (varia com o tipo da seg);
 **/
 #include <bits/stdc++.h>
