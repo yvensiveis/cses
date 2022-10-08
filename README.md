@@ -220,7 +220,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Lucca](./06-tree-algorithms/03-tree-diameter/lucca.cpp)
 * [Tree Distances I](./06-tree-algorithms/04-tree-distances-1/)
     * [Lucca](./06-tree-algorithms/04-tree-distances-1/lucca.cpp)
-* Tree Distances II
+* [Tree Distances II](./06-tree-algorithms/05-tree-distances-2/)
+    * [Lucca](./06-tree-algorithms/05-tree-distances-2/lucca.cpp)
 * [Company Queries I](./06-tree-algorithms/06-company-queries-1/)
     * [Lucca](./06-tree-algorithms/06-company-queries-1/lucca.cpp)
 * [Company Queries II](./06-tree-algorithms/07-company-queries-2/)
