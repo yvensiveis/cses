@@ -241,7 +241,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 
 ## [Mathematics](./07-mathematics/)
 
-* Josephus Queries
+* [Josephus Queries](./07-mathematics/01-josephus-queries/)
+    * [Yvens](./07-mathematics/01-josephus-queries/yvens.cpp)
 * [Exponentiation](./07-mathematics/02-exponentiation/)
     * [Pedro](./07-mathematics/02-exponentiation/pedro.cpp)
 * [Exponentiation II](./07-mathematics/03-exponentiation-2/)
