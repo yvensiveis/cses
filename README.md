@@ -161,7 +161,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Lucca](./04-graph-algorithms/28-mail-delivery/lucca.cpp)
 * [De Bruijn Sequence](./04-graph-algorithms/29-de-bruijin-sequence/)
     * [Lucca](./04-graph-algorithms/29-de-bruijin-sequence/lucca.cpp)
-* Teleporters Path
+* [Teleporters Path](./04-graph-algorithms/30-teleporters-paths/)
+    * [Lucca](./04-graph-algorithms/30-teleporters-paths/lucca.cpp)
 * Hamiltonian Flights
 * Knight's Tour
 * [Download Speed](./04-graph-algorithms/33-download-speed/)
