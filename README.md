@@ -235,7 +235,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Lucca](./06-tree-algorithms/10-subtree-queries/lucca.cpp)
 * [Path Queries](./06-tree-algorithms/11-path-queries/)
     * [Lucca](./06-tree-algorithms/11-path-queries/lucca.cpp)
-* Path Queries II
+* [Path Queries II](./06-tree-algorithms/12-path-queries-2/)
+    * [Lucca](./06-tree-algorithms/12-path-queries-2/lucca.cpp)
 * Distinct Colors
 * Finding a Centroid
 * Fixed-Length Paths I
