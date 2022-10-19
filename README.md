@@ -258,7 +258,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Pedro](./07-mathematics/04-counting-divisors/pedro.cpp)
 * [Common Divisors](./07-mathematics/05-common-divisors/)
     * [Yvens](./07-mathematics/05-common-divisors/yvens.cpp)
-* Sum of Divisors
+* [Sum of Divisors](./07-mathematics/06-sum-of-divisors/)
+    * [Yvens](./07-mathematics/06-sum-of-divisors/yvens.cpp)
 * Divisor Analysis
 * Prime Multiples
 * Counting Coprime Pairs
