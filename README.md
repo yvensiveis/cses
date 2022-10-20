@@ -39,7 +39,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * [Maximum Subarray Sum](./02-sorting-and-searching/08-maximum-subarray-sum/)
     * [Pedro](./02-sorting-and-searching/08-maximum-subarray-sum/pedro.cpp)
 * Stick Lengths
-* Missing Coin Sum
+* [Missing Coin Sum](./02-sorting-and-searching/10-missing-coin-sum/)
+    * [Pedro](./02-sorting-and-searching/10-missing-coin-sum/pedro.cpp)
 * Collecting Numbers
 * Collecting Numbers II
 * Playlist
