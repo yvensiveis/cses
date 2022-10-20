@@ -47,7 +47,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Traffic Lights
 * [Josephus Problem I](./02-sorting-and-searching/16-josephus-problem-1/)
     * [Pedro](./02-sorting-and-searching/16-josephus-problem-1/pedro.cpp)
-* Josephus Problem II
+* [Josephus Problem II](./02-sorting-and-searching/17-josephus-problem-2/)
+    * [Pedro](./02-sorting-and-searching/17-josephus-problem-2/pedro.cpp)
 * Nested Ranges Check
 * Nested Ranges Count
 * Room Allocation
