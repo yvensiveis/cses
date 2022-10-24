@@ -41,7 +41,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Stick Lengths
 * [Missing Coin Sum](./02-sorting-and-searching/10-missing-coin-sum/)
     * [Pedro](./02-sorting-and-searching/10-missing-coin-sum/pedro.cpp)
-* Collecting Numbers
+* [Collecting Numbers](./02-sorting-and-searching/11-collecting-numbers/)
+    * [Lucca](./02-sorting-and-searching/11-collecting-numbers/lucca.cpp)
 * Collecting Numbers II
 * [Playlist](./02-sorting-and-searching/13-playlist/)
     * [Lucca](./02-sorting-and-searching/13-playlist/lucca.cpp)
