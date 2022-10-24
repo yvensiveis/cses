@@ -43,7 +43,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Pedro](./02-sorting-and-searching/10-missing-coin-sum/pedro.cpp)
 * Collecting Numbers
 * Collecting Numbers II
-* Playlist
+* [Playlist](./02-sorting-and-searching/13-playlist/)
+    * [Lucca](./02-sorting-and-searching/13-playlist/lucca.cpp)
 * Towers
 * Traffic Lights
 * [Josephus Problem I](./02-sorting-and-searching/16-josephus-problem-1/)
