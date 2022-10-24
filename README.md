@@ -238,8 +238,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * [Subtree Queries](./06-tree-algorithms/10-subtree-queries/)
     * [Lucca](./06-tree-algorithms/10-subtree-queries/lucca.cpp)
 * [Path Queries](./06-tree-algorithms/11-path-queries/)
-    * [Lucca](./06-tree-algorithms/11-path-queries/lucca-flattening-tree.cpp)
-    * [Lucca](./06-tree-algorithms/11-path-queries/lucca-hld.cpp)
+    * [Lucca - tree flattening](./06-tree-algorithms/11-path-queries/lucca-tree-flattening.cpp)
+    * [Lucca - HLD](./06-tree-algorithms/11-path-queries/lucca-hld.cpp)
 * [Path Queries II](./06-tree-algorithms/12-path-queries-2/)
     * [Lucca](./06-tree-algorithms/12-path-queries-2/lucca.cpp)
 * Distinct Colors
