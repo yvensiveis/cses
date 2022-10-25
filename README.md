@@ -303,6 +303,7 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * [String Matching](./08-string-algorithms/02-string-matching/)
     * [Pedro - Hash](./08-string-algorithms/02-string-matching/pedro-hash.cpp)
     * [Pedro - KMP](./08-string-algorithms/02-string-matching/pedro-kmp.cpp)
+    * [Lucca - Z](./08-string-algorithms/02-string-matching/lucca-z.cpp)
 * [Finding Borders](./08-string-algorithms/03-finding-borders/)
     * [Pedro](./08-string-algorithms/03-finding-borders/pedro.cpp)
 * [Finding Periods](./08-string-algorithms/04-finding-periods/)
