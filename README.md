@@ -431,7 +431,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Counting Reorders
 * Book Shop II
 * Network Breakdown
-* Visiting Cities
+* [Visiting Cities](./11-additional-problems/60-visiting-cities/)
+    * [Pedro](./11-additional-problems/60-visiting-cities/lucca.cpp)
 * Missing Coin Sum Queries
 * Number Grid
 * Maximum Building II
