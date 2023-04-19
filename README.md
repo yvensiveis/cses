@@ -374,7 +374,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * [Counting Bits](./11-additional-problems/02-counting-bits/)
     * [Pedro](./11-additional-problems/02-counting-bits/pedro.cpp)
 * Swap Game
-* Prüfer Code
+* [Prüfer Code](./11-additional-problems/04-prufer-code/)
+    * [Lucca](./11-additional-problems/04-prufer-code/lucca.cpp)
 * Acyclic Graph Edges
 * Strongly Connected Edges
 * Even Outdegree Edges
