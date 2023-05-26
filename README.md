@@ -385,10 +385,12 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Special Substrings
 * Permutation Inversions
 * Maximum Xor Subarray
-* Movie Festival Queries
+* [Movie Festival Queries](./11-additional-problems/13-movie-festival-queries/)
+    * [Lucca](./11-additional-problems/13-movie-festival-queries/lucca.cpp)
 * Chess Tournament
 * Tree Traversals
-* Network Renovation
+* [Network Renovation](./11-additional-problems/13-movie-festival-queries/)
+    * [Lucca](./11-additional-problems/13-movie-festival-queries/lucca.cpp)
 * Graph Girth
 * Intersection Points
 * Inverse Inversions
