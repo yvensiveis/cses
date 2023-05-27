@@ -420,7 +420,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * School Excursion
 * Coin Grid
 * Robot Path
-* Programmers and Artists
+* [Programmers and Artists](./11-additional-problems/46-programmers-and-artists/)
+    * [Lucca](./11-additional-problems/46-programmers-and-artists/lucca.cpp)
 * Course Schedule II
 * Removing Digits II
 * Coin Arrangement
