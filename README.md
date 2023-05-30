@@ -355,8 +355,10 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Cut and Paste
 * Substring Reversals
 * Reversals and Sums
-* Necessary Roads
-* Necessary Cities
+* [Necessary Roads](./10-advanced-techniques/09-necessary-roads/)
+    * [Lucca](./10-advanced-techniques/09-necessary-roads/lucca.cpp)
+* [Necessary Cities](./10-advanced-techniques/10-necessary-cities/)
+    * [Lucca](./10-advanced-techniques/10-necessary-cities/lucca.cpp)
 * Eulerian Subgraphs
 * Monster Game I
 * Monster Game II
