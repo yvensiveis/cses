@@ -408,7 +408,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Maximum Building I
 * Sorting Methods
 * Cyclic Array
-* List of Sums
+* [List of Sums](./11-additional-problems/34-list-of-sums/)
+    * [Lucca](./11-additional-problems/34-list-of-sums/lucca.cpp)
 * Increasing Array II
 * Food Division
 * Bit Problem
