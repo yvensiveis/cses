@@ -297,7 +297,8 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Lucca](./07-mathematics/27-nim-game-1/lucca.cpp)
 * [Nim Game II](./07-mathematics/28-nim-game-2/)
     * [Lucca](./07-mathematics/28-nim-game-2/lucca.cpp)
-* Stair Game
+* [Stair Game](./07-mathematics/29-stair-game/)
+    * [Lucca](./07-mathematics/29-stair-game/lucca.cpp)
 * Grundy's Game
 * Another Game
 
