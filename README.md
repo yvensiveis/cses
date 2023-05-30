@@ -270,15 +270,19 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Counting Coprime Pairs
 * [Binomial Coefficients](./07-mathematics/10-binomial-coefficients/)
     * [Pedro](./07-mathematics/10-binomial-coefficients/pedro.cpp)
-* Creating Strings II
+* [Creating Strings II](./07-mathematics/11-creating-strings-2/)
+    * [Lucca](./07-mathematics/11-creating-strings-2/lucca.cpp)
 * Distributing Apples
 * Christmas Party
 * Bracket Sequences I
 * Bracket Sequences II
-* Counting Necklaces
+* [Counting Necklaces](./07-mathematics/16-counting-necklaces/)
+    * [Lucca](./07-mathematics/16-counting-necklaces/lucca.cpp)
 * Counting Grids
-* Fibonacci Numbers
-* Throwing Dice
+* [Fibonacci Numbers](./07-mathematics/18-fibonacci-numbers/)
+    * [Lucca](./07-mathematics/18-fibonacci-numbers/lucca.cpp)
+* [Throwing Dice](./07-mathematics/19-throwing-dice/)
+    * [Lucca](./07-mathematics/19-throwing-dice/lucca.cpp)
 * Graph Paths I
 * Graph Paths II
 * Dice Probability
@@ -291,7 +295,7 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * [Nim Game I](./07-mathematics/27-nim-game-1/)
     * [Pedro](./07-mathematics/27-nim-game-1/pedro.cpp)
     * [Lucca](./07-mathematics/27-nim-game-1/lucca.cpp)
-* [Nim Game II](./07-mathematics/27-nim-game-1/)
+* [Nim Game II](./07-mathematics/28-nim-game-2/)
     * [Lucca](./07-mathematics/28-nim-game-2/lucca.cpp)
 * Stair Game
 * Grundy's Game
