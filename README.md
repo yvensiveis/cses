@@ -383,9 +383,12 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Swap Game
 * [Prüfer Code](./11-additional-problems/04-prufer-code/)
     * [Lucca](./11-additional-problems/04-prufer-code/lucca.cpp)
-* Acyclic Graph Edges
-* Strongly Connected Edges
-* Even Outdegree Edges
+* [Acyclic Graph Edges](./11-additional-problems/05-acyclic-graph-edges/)
+    * [Lucca](./11-additional-problems/05-acyclic-graph-edges/lucca.cpp)
+* [Strongly Connected Edges](./11-additional-problems/06-strongly-connected-edges/)
+    * [Lucca](./11-additional-problems/06-strongly-connected-edges/lucca.cpp)
+* [Even Outdegree Edges](./11-additional-problems/06-strongly-connected-edges/)
+    * [Lucca](./11-additional-problems/06-strongly-connected-edges/lucca.cpp)
 * Multiplication Table
 * [Advertisement](./11-additional-problems/09-advertisement/)
     * [Pedro](./11-additional-problems/09-advertisement/pedro.cpp)
@@ -396,9 +399,10 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
     * [Lucca](./11-additional-problems/13-movie-festival-queries/lucca.cpp)
 * Chess Tournament
 * Tree Traversals
-* [Network Renovation](./11-additional-problems/13-movie-festival-queries/)
-    * [Lucca](./11-additional-problems/13-movie-festival-queries/lucca.cpp)
-* Graph Girth
+* [Network Renovation](./11-additional-problems/16-network-renovation/)
+    * [Lucca](./11-additional-problems/16-network-renovation/lucca.cpp)
+* [Graph Girth](./11-additional-problems/17-graph-girth/)
+    * [Lucca](./11-additional-problems/17-graph-girth/lucca.cpp)
 * Intersection Points
 * Inverse Inversions
 * Monotone Subsequences
@@ -449,12 +453,14 @@ Yvensíveis' solutions for [CSES Problem Set](https://cses.fi/problemset/).
 * Number Grid
 * Maximum Building II
 * Filling Trominos
-* Stick Divisions
+* [Stick Divisions](./11-additional-problems/65-stick-divisions/)
+    * [Lucca](./11-additional-problems/65-stick-divisions/lucca.cpp)
 * Coding Company
 * Flight Route Requests
 * Two Stacks Sorting
 * Tree Isomorphism II
-* Forbidden Cities
+* [Forbidden Cities](./11-additional-problems/70-forbidden-cities/)
+    * [Lucca](./11-additional-problems/70-forbidden-cities/lucca.cpp)
 * Area of Rectangles
 * Grid Completion
 * Creating Offices
